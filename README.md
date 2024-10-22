@@ -54,8 +54,6 @@ Converts the input sentence to lowercase, tokenizes it, and removes non-alphabet
 Identifies and returns all noun phrase chunks from the parse tree.
 
 ## Dependencies
-
-- Python 3.x
 - NLTK
 
 You can install the required packages using pip:
